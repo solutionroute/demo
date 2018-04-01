@@ -3,181 +3,181 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://solutionroute.github.io/hugo-smorg/exampleSite/about/hugo/</loc>
+    <loc>https://solutionroute.github.io/demo/hugo-smorg/about/hugo/</loc>
     <lastmod>2018-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://solutionroute.github.io/hugo-smorg/exampleSite/project/hugo-smorg/</loc>
+    <loc>https://solutionroute.github.io/demo/hugo-smorg/project/hugo-smorg/</loc>
     <lastmod>2018-03-07T02:16:58-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://solutionroute.github.io/hugo-smorg/exampleSite/post/syntax-highlighting/</loc>
+    <loc>https://solutionroute.github.io/demo/hugo-smorg/post/syntax-highlighting/</loc>
     <lastmod>2018-03-10T17:23:09-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://solutionroute.github.io/hugo-smorg/exampleSite/about/</loc>
+    <loc>https://solutionroute.github.io/demo/hugo-smorg/about/</loc>
     <lastmod>2018-03-07T02:16:58-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://solutionroute.github.io/hugo-smorg/exampleSite/project/blorg-bread-machine/</loc>
+    <loc>https://solutionroute.github.io/demo/hugo-smorg/project/blorg-bread-machine/</loc>
     <lastmod>2018-03-03T09:17:17-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://solutionroute.github.io/hugo-smorg/exampleSite/</loc>
+    <loc>https://solutionroute.github.io/demo/hugo-smorg/</loc>
     <lastmod>2018-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://solutionroute.github.io/hugo-smorg/exampleSite/project/xyz-1000/</loc>
+    <loc>https://solutionroute.github.io/demo/hugo-smorg/project/xyz-1000/</loc>
     <lastmod>2018-02-01T00:00:00-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://solutionroute.github.io/hugo-smorg/exampleSite/post/creating-a-new-theme/</loc>
+    <loc>https://solutionroute.github.io/demo/hugo-smorg/post/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://solutionroute.github.io/hugo-smorg/exampleSite/post/goisforlovers/</loc>
+    <loc>https://solutionroute.github.io/demo/hugo-smorg/post/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://solutionroute.github.io/hugo-smorg/exampleSite/post/hugoisforlovers/</loc>
+    <loc>https://solutionroute.github.io/demo/hugo-smorg/post/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://solutionroute.github.io/hugo-smorg/exampleSite/post/migrate-from-jekyll/</loc>
+    <loc>https://solutionroute.github.io/demo/hugo-smorg/post/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://solutionroute.github.io/hugo-smorg/exampleSite/tags/bulma/</loc>
+    <loc>https://solutionroute.github.io/demo/hugo-smorg/tags/bulma/</loc>
     <lastmod>2018-03-07T02:16:58-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://solutionroute.github.io/hugo-smorg/exampleSite/categories/</loc>
+    <loc>https://solutionroute.github.io/demo/hugo-smorg/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://solutionroute.github.io/hugo-smorg/exampleSite/tags/dev/</loc>
+    <loc>https://solutionroute.github.io/demo/hugo-smorg/tags/dev/</loc>
     <lastmod>2018-03-10T17:23:09-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://solutionroute.github.io/hugo-smorg/exampleSite/tags/development/</loc>
+    <loc>https://solutionroute.github.io/demo/hugo-smorg/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://solutionroute.github.io/hugo-smorg/exampleSite/categories/development/</loc>
+    <loc>https://solutionroute.github.io/demo/hugo-smorg/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://solutionroute.github.io/hugo-smorg/exampleSite/categories/examplesite/</loc>
+    <loc>https://solutionroute.github.io/demo/hugo-smorg/categories/examplesite/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://solutionroute.github.io/hugo-smorg/exampleSite/tags/go/</loc>
+    <loc>https://solutionroute.github.io/demo/hugo-smorg/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://solutionroute.github.io/hugo-smorg/exampleSite/categories/golang/</loc>
+    <loc>https://solutionroute.github.io/demo/hugo-smorg/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://solutionroute.github.io/hugo-smorg/exampleSite/tags/howto/</loc>
+    <loc>https://solutionroute.github.io/demo/hugo-smorg/tags/howto/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://solutionroute.github.io/hugo-smorg/exampleSite/tags/hugo/</loc>
+    <loc>https://solutionroute.github.io/demo/hugo-smorg/tags/hugo/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://solutionroute.github.io/hugo-smorg/exampleSite/categories/hugo/</loc>
+    <loc>https://solutionroute.github.io/demo/hugo-smorg/categories/hugo/</loc>
     <lastmod>2018-03-07T02:16:58-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://solutionroute.github.io/hugo-smorg/exampleSite/tags/iot/</loc>
+    <loc>https://solutionroute.github.io/demo/hugo-smorg/tags/iot/</loc>
     <lastmod>2018-03-03T09:17:17-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://solutionroute.github.io/hugo-smorg/exampleSite/post/</loc>
+    <loc>https://solutionroute.github.io/demo/hugo-smorg/post/</loc>
     <lastmod>2018-03-10T17:23:09-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://solutionroute.github.io/hugo-smorg/exampleSite/categories/products/</loc>
+    <loc>https://solutionroute.github.io/demo/hugo-smorg/categories/products/</loc>
     <lastmod>2018-03-03T09:17:17-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://solutionroute.github.io/hugo-smorg/exampleSite/project/</loc>
+    <loc>https://solutionroute.github.io/demo/hugo-smorg/project/</loc>
     <lastmod>2018-03-07T02:16:58-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://solutionroute.github.io/hugo-smorg/exampleSite/tags/recycling/</loc>
+    <loc>https://solutionroute.github.io/demo/hugo-smorg/tags/recycling/</loc>
     <lastmod>2018-03-03T09:17:17-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://solutionroute.github.io/hugo-smorg/exampleSite/tags/</loc>
+    <loc>https://solutionroute.github.io/demo/hugo-smorg/tags/</loc>
     <lastmod>2018-03-07T02:16:58-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://solutionroute.github.io/hugo-smorg/exampleSite/tags/templates/</loc>
+    <loc>https://solutionroute.github.io/demo/hugo-smorg/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://solutionroute.github.io/hugo-smorg/exampleSite/tags/theme/</loc>
+    <loc>https://solutionroute.github.io/demo/hugo-smorg/tags/theme/</loc>
     <lastmod>2018-03-07T02:16:58-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://solutionroute.github.io/hugo-smorg/exampleSite/tags/themes/</loc>
+    <loc>https://solutionroute.github.io/demo/hugo-smorg/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://solutionroute.github.io/hugo-smorg/exampleSite/tags/tips/</loc>
+    <loc>https://solutionroute.github.io/demo/hugo-smorg/tags/tips/</loc>
     <lastmod>2018-03-10T17:23:09-08:00</lastmod>
     <priority>0</priority>
   </url>

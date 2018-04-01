@@ -1,19 +1,19 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>hugo-smorg on Hugo-smorg</title>
-	<link href="https://solutionroute.github.io/hugo-smorg/exampleSite/atom.xml" rel="self"/>
-	<link href="https://solutionroute.github.io/hugo-smorg/exampleSite/"/>
+	<link href="https://solutionroute.github.io/demo/hugo-smorg/atom.xml" rel="self"/>
+	<link href="https://solutionroute.github.io/demo/hugo-smorg/"/>
 	<generator uri="https://gohugo.io/" version=".Hugo.Version">Hugo -- gohugo.io</generator>
 	<updated>2018-03-01T00:00:00+00:00</updated>
-	<id>https://solutionroute.github.io/hugo-smorg/exampleSite/</id>
+	<id>https://solutionroute.github.io/demo/hugo-smorg/</id>
 	<author>
 		<name>Your Name</name>
 		<email>thisemaildoesnotexist@www.example.com</email>
 	</author>
   <entry>
 	<title>About Hugo</title>
-    <link href="https://solutionroute.github.io/hugo-smorg/exampleSite/about/hugo/"/>
-	<id>https://solutionroute.github.io/hugo-smorg/exampleSite/about/hugo/</id>
+    <link href="https://solutionroute.github.io/demo/hugo-smorg/about/hugo/"/>
+	<id>https://solutionroute.github.io/demo/hugo-smorg/about/hugo/</id>
     <published>2018-03-01T00:00:00+00:00</published>
     <updated>2018-03-01T00:00:00+00:00</updated>
 	<content type="html"><![CDATA[
@@ -24,8 +24,8 @@ See the project page: https://github.com/solutionroute/hugo-smorg, and
 	
   <entry>
 	<title>Hugo Bulma Powered Blog Theme: Hugo-Smorg</title>
-    <link href="https://solutionroute.github.io/hugo-smorg/exampleSite/project/hugo-smorg/"/>
-	<id>https://solutionroute.github.io/hugo-smorg/exampleSite/project/hugo-smorg/</id>
+    <link href="https://solutionroute.github.io/demo/hugo-smorg/project/hugo-smorg/"/>
+	<id>https://solutionroute.github.io/demo/hugo-smorg/project/hugo-smorg/</id>
     <published>2018-03-07T02:16:58-08:00</published>
     <updated>2018-03-07T02:16:58-08:00</updated>
 	<content type="html"><![CDATA[
@@ -38,8 +38,8 @@ mobile-first, <a href="https://bulma.io/">Bulma</a>-powered, reasonably minimali
 	
   <entry>
 	<title>Syntax Highlighting</title>
-    <link href="https://solutionroute.github.io/hugo-smorg/exampleSite/post/syntax-highlighting/"/>
-	<id>https://solutionroute.github.io/hugo-smorg/exampleSite/post/syntax-highlighting/</id>
+    <link href="https://solutionroute.github.io/demo/hugo-smorg/post/syntax-highlighting/"/>
+	<id>https://solutionroute.github.io/demo/hugo-smorg/post/syntax-highlighting/</id>
     <published>2018-03-10T17:23:09-08:00</published>
     <updated>2018-03-10T17:23:09-08:00</updated>
 	<content type="html"><![CDATA[
@@ -52,8 +52,8 @@ Inline code looks like <code>this-&gt;var</code> and <code>expand($flurb, $times
 	
   <entry>
 	<title>Blorg Bread Baker</title>
-    <link href="https://solutionroute.github.io/hugo-smorg/exampleSite/project/blorg-bread-machine/"/>
-	<id>https://solutionroute.github.io/hugo-smorg/exampleSite/project/blorg-bread-machine/</id>
+    <link href="https://solutionroute.github.io/demo/hugo-smorg/project/blorg-bread-machine/"/>
+	<id>https://solutionroute.github.io/demo/hugo-smorg/project/blorg-bread-machine/</id>
     <published>2018-03-03T09:17:17-08:00</published>
     <updated>2018-03-03T09:17:17-08:00</updated>
 	<content type="html"><![CDATA[
@@ -63,8 +63,8 @@ The hand-crafted Blorg Bread Baker&trade; enhances any kitchen. Produced from 10
 	
   <entry>
 	<title>XYZ 1000 Replicator</title>
-    <link href="https://solutionroute.github.io/hugo-smorg/exampleSite/project/xyz-1000/"/>
-	<id>https://solutionroute.github.io/hugo-smorg/exampleSite/project/xyz-1000/</id>
+    <link href="https://solutionroute.github.io/demo/hugo-smorg/project/xyz-1000/"/>
+	<id>https://solutionroute.github.io/demo/hugo-smorg/project/xyz-1000/</id>
     <published>2018-02-01T00:00:00-08:00</published>
     <updated>2018-02-01T00:00:00-08:00</updated>
 	<content type="html"><![CDATA[
@@ -75,8 +75,8 @@ Features  It&rsquo;s like a chef from 1,783,482,482 (and counting) planets in yo
 	
   <entry>
 	<title>Creating a New Theme</title>
-    <link href="https://solutionroute.github.io/hugo-smorg/exampleSite/post/creating-a-new-theme/"/>
-	<id>https://solutionroute.github.io/hugo-smorg/exampleSite/post/creating-a-new-theme/</id>
+    <link href="https://solutionroute.github.io/demo/hugo-smorg/post/creating-a-new-theme/"/>
+	<id>https://solutionroute.github.io/demo/hugo-smorg/post/creating-a-new-theme/</id>
     <published>2014-09-28T00:00:00+00:00</published>
     <updated>2014-09-28T00:00:00+00:00</updated>
 	<content type="html"><![CDATA[
@@ -86,8 +86,8 @@ Introduction This tutorial will show you how to create a simple theme in Hugo. I
 	
   <entry>
 	<title>(Hu)go Template Primer</title>
-    <link href="https://solutionroute.github.io/hugo-smorg/exampleSite/post/goisforlovers/"/>
-	<id>https://solutionroute.github.io/hugo-smorg/exampleSite/post/goisforlovers/</id>
+    <link href="https://solutionroute.github.io/demo/hugo-smorg/post/goisforlovers/"/>
+	<id>https://solutionroute.github.io/demo/hugo-smorg/post/goisforlovers/</id>
     <published>2014-04-02T00:00:00+00:00</published>
     <updated>2014-04-02T00:00:00+00:00</updated>
 	<content type="html"><![CDATA[
@@ -97,8 +97,8 @@ Hugo uses the excellent go html/template library for its template engine. It is 
 	
   <entry>
 	<title>Getting Started with Hugo</title>
-    <link href="https://solutionroute.github.io/hugo-smorg/exampleSite/post/hugoisforlovers/"/>
-	<id>https://solutionroute.github.io/hugo-smorg/exampleSite/post/hugoisforlovers/</id>
+    <link href="https://solutionroute.github.io/demo/hugo-smorg/post/hugoisforlovers/"/>
+	<id>https://solutionroute.github.io/demo/hugo-smorg/post/hugoisforlovers/</id>
     <published>2014-04-02T00:00:00+00:00</published>
     <updated>2014-04-02T00:00:00+00:00</updated>
 	<content type="html"><![CDATA[
@@ -109,8 +109,8 @@ Save it somewhere specific as we will be using it in the next step.
 	
   <entry>
 	<title>Migrate to Hugo from Jekyll</title>
-    <link href="https://solutionroute.github.io/hugo-smorg/exampleSite/post/migrate-from-jekyll/"/>
-	<id>https://solutionroute.github.io/hugo-smorg/exampleSite/post/migrate-from-jekyll/</id>
+    <link href="https://solutionroute.github.io/demo/hugo-smorg/post/migrate-from-jekyll/"/>
+	<id>https://solutionroute.github.io/demo/hugo-smorg/post/migrate-from-jekyll/</id>
     <published>2014-03-10T00:00:00+00:00</published>
     <updated>2014-03-10T00:00:00+00:00</updated>
 	<content type="html"><![CDATA[
