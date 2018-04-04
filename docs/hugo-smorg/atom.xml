@@ -1,6 +1,6 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<title>hugo-smorg on Hugo-smorg</title>
+	<title>hugo-smorg on Hugo-Smorg Theme</title>
 	<link href="https://solutionroute.github.io/demo/hugo-smorg/atom.xml" rel="self"/>
 	<link href="https://solutionroute.github.io/demo/hugo-smorg/"/>
 	<generator uri="https://gohugo.io/" version=".Hugo.Version">Hugo -- gohugo.io</generator>
@@ -70,6 +70,18 @@ The hand-crafted Blorg Bread Baker&trade; enhances any kitchen. Produced from 10
 	<content type="html"><![CDATA[
 With the XYZ 1000 Replicator you&rsquo;ll never again be stuck with an empty kitchen and nothing for dinner!
 Features  It&rsquo;s like a chef from 1,783,482,482 (and counting) planets in your kitchen!
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>401 Unauthorized</title>
+    <link href="https://solutionroute.github.io/demo/hugo-smorg/401/"/>
+	<id>https://solutionroute.github.io/demo/hugo-smorg/401/</id>
+    <published>2017-03-23T00:00:00+00:00</published>
+    <updated>2017-03-23T00:00:00+00:00</updated>
+	<content type="html"><![CDATA[
+A user name and password is required.
+You&rsquo;ve attempted to visit a section of the website reserved for authorized users.
 ]]></content>
   </entry>
 	

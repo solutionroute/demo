@@ -1,6 +1,6 @@
 /*! hugo-smorg theme | github.com/solutionroute/hugo-smorg */
 /*! bulma.io v0.6.2 | MIT License | github.com/jgthms/bulma */
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i&subset=latin-ext);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i);
 @keyframes spinAround {
   from {
     transform: rotate(0deg); }

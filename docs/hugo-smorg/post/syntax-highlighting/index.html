@@ -1,21 +1,21 @@
-<!DOCTYPE html>
+<!DOCTYPE html> 
 <html lang="en-us">
-<head> 
+<head>
+	<title>
+		Syntax Highlighting - Hugo-Smorg Theme
+	</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="robots" content="index,follow">
 	<base href="https://solutionroute.github.io/demo/hugo-smorg">
-	<link rel="canonical" href="https://solutionroute.github.io/demo/hugo-smorg/post/syntax-highlighting/">
-	<title>Syntax Highlighting - Hugo-smorg</title>
-	<meta name="description" content="160 characters or less describing you or your organization or your site&#39;s purpose.">
+	<link rel="canonical" href="https://solutionroute.github.io/demo/hugo-smorg/post/syntax-highlighting/"><meta name="description" content="160 characters or less describing you or your organization or your site&#39;s purpose.">
 	<link rel="preload" href="https://solutionroute.github.io/demo/hugo-smorg/css/smorg.css" as="style">
 	<link rel="stylesheet" href="https://solutionroute.github.io/demo/hugo-smorg/css/smorg.css">
-	<meta name="generator" content="Hugo 0.38-DEV" />
+	<meta name="generator" content="Hugo 0.38" />
 
 </head>
-
 <body>
-
+		
 	<nav class="navbar" aria-label="main navigation">
 		<div class="container">
 			<div class="navbar-brand">
@@ -39,7 +39,6 @@
 			</div>
 		</div>
 	</nav>
-
 <section class="section" itemscope itemtype="http://schema.org/WebPage">
 	<div class="container">
 		<div class="columns">
@@ -59,15 +58,15 @@ Inline code looks like <code>this-&gt;var</code> and <code>expand($flurb, $times
 
 <h2 id="html-hugo-example-partials-summary-html">HTML (Hugo example partials/summary.html)</h2>
 <div class="highlight"><pre class="chroma"><code class="language-html" data-lang="html"><span class="c">&lt;!-- html --&gt;</span>
-<span class="p">&lt;</span><span class="nt">section</span> <span class="na">id</span><span class="o">=</span><span class="s">&#34;main&#34;</span><span class="p"></span><span class="p">&gt;</span>
-  <span class="p">&lt;</span><span class="nt">div</span><span class="p"></span><span class="p">&gt;</span>
-    <span class="p">&lt;</span><span class="nt">h1</span> <span class="na">id</span><span class="o">=</span><span class="s">&#34;title&#34;</span><span class="p"></span><span class="p">&gt;</span>{{ .Title }}<span class="p">&lt;</span><span class="p">/</span><span class="nt">h1</span><span class="p">&gt;</span>
-    <span class="p">&lt;</span><span class="nt">p</span><span class="p"></span><span class="p">&gt;</span>Hello world!<span class="p">&lt;</span><span class="p">/</span><span class="nt">p</span><span class="p">&gt;</span>
+<span class="p">&lt;</span><span class="nt">section</span> <span class="na">id</span><span class="o">=</span><span class="s">&#34;main&#34;</span><span class="p">&gt;</span>
+  <span class="p">&lt;</span><span class="nt">div</span><span class="p">&gt;</span>
+    <span class="p">&lt;</span><span class="nt">h1</span> <span class="na">id</span><span class="o">=</span><span class="s">&#34;title&#34;</span><span class="p">&gt;</span>{{ .Title }}<span class="p">&lt;/</span><span class="nt">h1</span><span class="p">&gt;</span>
+    <span class="p">&lt;</span><span class="nt">p</span><span class="p">&gt;</span>Hello world!<span class="p">&lt;/</span><span class="nt">p</span><span class="p">&gt;</span>
     {{ range .Data.Pages }}
       {{ .Render &#34;summary&#34;}}
     {{ end }}
-  <span class="p">&lt;</span><span class="p">/</span><span class="nt">div</span><span class="p">&gt;</span>
-<span class="p">&lt;</span><span class="p">/</span><span class="nt">section</span><span class="p">&gt;</span></code></pre></div>
+  <span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+<span class="p">&lt;/</span><span class="nt">section</span><span class="p">&gt;</span></code></pre></div>
 <h2 id="go">Go</h2>
 <div class="highlight"><pre class="chroma"><code class="language-go" data-lang="go"><span class="c1">// Go Language
 </span><span class="c1"></span>
@@ -102,18 +101,18 @@ Inline code looks like <code>this-&gt;var</code> and <code>expand($flurb, $times
 <span class="k">class</span> <span class="nc">Foo</span><span class="p">:</span>
 	<span class="n">bar</span>
 
-<span class="nd">@app.route</span><span class="p">(</span><span class="sa"></span><span class="s2">&#34;/&#34;</span><span class="p">)</span>
+<span class="nd">@app.route</span><span class="p">(</span><span class="s2">&#34;/&#34;</span><span class="p">)</span>
 <span class="k">def</span> <span class="nf">hello</span><span class="p">(</span><span class="mi">42</span><span class="p">,</span> <span class="o">**</span><span class="n">kwargs</span><span class="p">):</span>
-    <span class="k">return</span> <span class="sa"></span><span class="s2">&#34;Hello world!&#34;</span>
+    <span class="k">return</span> <span class="s2">&#34;Hello world!&#34;</span>
 
-<span class="k">if</span> <span class="vm">__name__</span> <span class="o">==</span> <span class="sa"></span><span class="s2">&#34;__main__&#34;</span><span class="p">:</span>
+<span class="k">if</span> <span class="vm">__name__</span> <span class="o">==</span> <span class="s2">&#34;__main__&#34;</span><span class="p">:</span>
     <span class="n">app</span><span class="o">.</span><span class="n">run</span><span class="p">()</span>
-	<span class="k">print</span><span class="p">(</span><span class="sa"></span><span class="s2">&#34;HI&#34;</span><span class="p">,</span> <span class="mi">42</span><span class="p">)</span></code></pre></div>
+	<span class="k">print</span><span class="p">(</span><span class="s2">&#34;HI&#34;</span><span class="p">,</span> <span class="mi">42</span><span class="p">)</span></code></pre></div>
 <h2 id="ruby">Ruby</h2>
 <div class="highlight"><pre class="chroma"><code class="language-ruby" data-lang="ruby"><span class="c1"># Ruby</span>
 <span class="nb">require</span> <span class="s1">&#39;socket&#39;</span> 
 
-<span class="n">server</span> <span class="o">=</span> <span class="no">TCPServer</span><span class="o">.</span><span class="n">new</span><span class="p">(</span><span class="s1">&#39;localhost&#39;</span><span class="p">,</span> <span class="mi">2345</span><span class="o"></span><span class="p">)</span>
+<span class="n">server</span> <span class="o">=</span> <span class="no">TCPServer</span><span class="o">.</span><span class="n">new</span><span class="p">(</span><span class="s1">&#39;localhost&#39;</span><span class="p">,</span> <span class="mi">2345</span><span class="p">)</span>
 
 <span class="kp">loop</span> <span class="k">do</span>
 
@@ -186,6 +185,7 @@ Inline code looks like <code>this-&gt;var</code> and <code>expand($flurb, $times
 		</div>
 	</div>
 </section>
+
 <footer class="footer">
   <div class="container content">
 	<div class="has-text-centered">
@@ -206,7 +206,6 @@ Inline code looks like <code>this-&gt;var</code> and <code>expand($flurb, $times
 </footer>
 
 
-
 <script type="application/ld+json">
 { 
 	"@context": "http://schema.org", 
@@ -219,6 +218,8 @@ Inline code looks like <code>this-&gt;var</code> and <code>expand($flurb, $times
 		}
 }
 </script>
+
+
 
 
 <script>
@@ -236,6 +237,7 @@ document.addEventListener('DOMContentLoaded', function () {
   }
 });
 </script>
+ 
 
 </body>
 </html>

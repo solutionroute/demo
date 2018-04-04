@@ -1,21 +1,21 @@
-<!DOCTYPE html>
+<!DOCTYPE html> 
 <html lang="en-us">
-<head> 
+<head>
+	<title>
+		Creating a New Theme - Hugo-Smorg Theme
+	</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="robots" content="index,follow">
 	<base href="https://solutionroute.github.io/demo/hugo-smorg">
-	<link rel="canonical" href="https://solutionroute.github.io/demo/hugo-smorg/post/creating-a-new-theme/">
-	<title>Creating a New Theme - Hugo-smorg</title>
-	<meta name="description" content="160 characters or less describing you or your organization or your site&#39;s purpose.">
+	<link rel="canonical" href="https://solutionroute.github.io/demo/hugo-smorg/post/creating-a-new-theme/"><meta name="description" content="160 characters or less describing you or your organization or your site&#39;s purpose.">
 	<link rel="preload" href="https://solutionroute.github.io/demo/hugo-smorg/css/smorg.css" as="style">
 	<link rel="stylesheet" href="https://solutionroute.github.io/demo/hugo-smorg/css/smorg.css">
-	<meta name="generator" content="Hugo 0.38-DEV" />
+	<meta name="generator" content="Hugo 0.38" />
 
 </head>
-
 <body>
-
+		
 	<nav class="navbar" aria-label="main navigation">
 		<div class="container">
 			<div class="navbar-brand">
@@ -39,7 +39,6 @@
 			</div>
 		</div>
 	</nav>
-
 <section class="section" itemscope itemtype="http://schema.org/WebPage">
 	<div class="container">
 		<div class="columns">
@@ -689,15 +688,15 @@ $</pre></div>
 <h4 id="update-the-template-file">Update the Template File</h4>
 <div class="highlight"><pre class="chroma"><code class="language-html" data-lang="html">$ vi themes/zafta/layouts/_default/single.html 
 <span class="cp">&lt;!DOCTYPE html&gt;</span>
-<span class="p">&lt;</span><span class="nt">html</span><span class="p"></span><span class="p">&gt;</span>
-<span class="p">&lt;</span><span class="nt">head</span><span class="p"></span><span class="p">&gt;</span>
-  <span class="p">&lt;</span><span class="nt">title</span><span class="p"></span><span class="p">&gt;</span>{{ .Title }}<span class="p">&lt;</span><span class="p">/</span><span class="nt">title</span><span class="p">&gt;</span>
-<span class="p">&lt;</span><span class="p">/</span><span class="nt">head</span><span class="p">&gt;</span>
-<span class="p">&lt;</span><span class="nt">body</span><span class="p"></span><span class="p">&gt;</span>
-  <span class="p">&lt;</span><span class="nt">h1</span><span class="p"></span><span class="p">&gt;</span>{{ .Title }}<span class="p">&lt;</span><span class="p">/</span><span class="nt">h1</span><span class="p">&gt;</span>
+<span class="p">&lt;</span><span class="nt">html</span><span class="p">&gt;</span>
+<span class="p">&lt;</span><span class="nt">head</span><span class="p">&gt;</span>
+  <span class="p">&lt;</span><span class="nt">title</span><span class="p">&gt;</span>{{ .Title }}<span class="p">&lt;/</span><span class="nt">title</span><span class="p">&gt;</span>
+<span class="p">&lt;/</span><span class="nt">head</span><span class="p">&gt;</span>
+<span class="p">&lt;</span><span class="nt">body</span><span class="p">&gt;</span>
+  <span class="p">&lt;</span><span class="nt">h1</span><span class="p">&gt;</span>{{ .Title }}<span class="p">&lt;/</span><span class="nt">h1</span><span class="p">&gt;</span>
   {{ .Content }}
-<span class="p">&lt;</span><span class="p">/</span><span class="nt">body</span><span class="p">&gt;</span>
-<span class="p">&lt;</span><span class="p">/</span><span class="nt">html</span><span class="p">&gt;</span>
+<span class="p">&lt;/</span><span class="nt">body</span><span class="p">&gt;</span>
+<span class="p">&lt;/</span><span class="nt">html</span><span class="p">&gt;</span>
 :wq
 
 $</code></pre></div>
@@ -1003,6 +1002,7 @@ $ vi themes/zafta/layouts/_default/single.html
 		</div>
 	</div>
 </section>
+
 <footer class="footer">
   <div class="container content">
 	<div class="has-text-centered">
@@ -1023,7 +1023,6 @@ $ vi themes/zafta/layouts/_default/single.html
 </footer>
 
 
-
 <script type="application/ld+json">
 { 
 	"@context": "http://schema.org", 
@@ -1036,6 +1035,8 @@ $ vi themes/zafta/layouts/_default/single.html
 		}
 }
 </script>
+
+
 
 
 <script>
@@ -1053,6 +1054,7 @@ document.addEventListener('DOMContentLoaded', function () {
   }
 });
 </script>
+ 
 
 </body>
 </html>
