@@ -6,9 +6,9 @@
     <description>Recent content in Tips on Hugo-Smorg Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>thisemaildoesnotexist@www.example.com (Your Name)</managingEditor>
-    <webMaster>thisemaildoesnotexist@www.example.com (Your Name)</webMaster>
-    <copyright>&amp;copy; Your Name</copyright>
+    <managingEditor>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</managingEditor>
+    <webMaster>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</webMaster>
+    <copyright>&amp;copy; Your Name or Organization Name</copyright>
     <lastBuildDate>Sat, 10 Mar 2018 17:23:09 -0800</lastBuildDate>
     
 	<atom:link href="https://solutionroute.github.io/demo/hugo-smorg/tags/tips/rss.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +18,7 @@
       <title>Syntax Highlighting</title>
       <link>https://solutionroute.github.io/demo/hugo-smorg/post/syntax-highlighting/</link>
       <pubDate>Sat, 10 Mar 2018 17:23:09 -0800</pubDate>
-      <author>thisemaildoesnotexist@www.example.com (Your Name)</author>
+      <author>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</author>
       <guid>https://solutionroute.github.io/demo/hugo-smorg/post/syntax-highlighting/</guid>
       <description>&lt;p&gt;Code examples in different languagues to demonstrate syntax highlighting with
 the current &lt;a href=&#34;https://github.com/solutionroute/hugo-smorg&#34;&gt;hugo-smorg&lt;/a&gt; theme.

@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://solutionroute.github.io/demo/hugo-smorg/about/contact/</loc>
+    <lastmod>2018-04-08T09:16:58-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://solutionroute.github.io/demo/hugo-smorg/about/hugo/</loc>
     <lastmod>2018-03-01T00:00:00+00:00</lastmod>
   </url>

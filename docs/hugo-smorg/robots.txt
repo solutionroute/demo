@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /secretloginpage
+
+Sitemap: https://solutionroute.github.io/demo/hugo-smorgsitemap.xml

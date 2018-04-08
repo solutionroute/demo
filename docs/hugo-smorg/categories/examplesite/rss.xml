@@ -6,9 +6,9 @@
     <description>Recent content in Examplesite on Hugo-Smorg Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>thisemaildoesnotexist@www.example.com (Your Name)</managingEditor>
-    <webMaster>thisemaildoesnotexist@www.example.com (Your Name)</webMaster>
-    <copyright>&amp;copy; Your Name</copyright>
+    <managingEditor>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</managingEditor>
+    <webMaster>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</webMaster>
+    <copyright>&amp;copy; Your Name or Organization Name</copyright>
     <lastBuildDate>Mon, 10 Mar 2014 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://solutionroute.github.io/demo/hugo-smorg/categories/examplesite/rss.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +18,7 @@
       <title>Migrate to Hugo from Jekyll</title>
       <link>https://solutionroute.github.io/demo/hugo-smorg/post/migrate-from-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      <author>thisemaildoesnotexist@www.example.com (Your Name)</author>
+      <author>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</author>
       <guid>https://solutionroute.github.io/demo/hugo-smorg/post/migrate-from-jekyll/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output.</description>
     </item>

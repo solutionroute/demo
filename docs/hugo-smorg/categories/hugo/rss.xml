@@ -6,9 +6,9 @@
     <description>Recent content in Hugo on Hugo-Smorg Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>thisemaildoesnotexist@www.example.com (Your Name)</managingEditor>
-    <webMaster>thisemaildoesnotexist@www.example.com (Your Name)</webMaster>
-    <copyright>&amp;copy; Your Name</copyright>
+    <managingEditor>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</managingEditor>
+    <webMaster>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</webMaster>
+    <copyright>&amp;copy; Your Name or Organization Name</copyright>
     <lastBuildDate>Sat, 10 Mar 2018 17:23:09 -0800</lastBuildDate>
     
 	<atom:link href="https://solutionroute.github.io/demo/hugo-smorg/categories/hugo/rss.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +18,7 @@
       <title>Syntax Highlighting</title>
       <link>https://solutionroute.github.io/demo/hugo-smorg/post/syntax-highlighting/</link>
       <pubDate>Sat, 10 Mar 2018 17:23:09 -0800</pubDate>
-      <author>thisemaildoesnotexist@www.example.com (Your Name)</author>
+      <author>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</author>
       <guid>https://solutionroute.github.io/demo/hugo-smorg/post/syntax-highlighting/</guid>
       <description>&lt;p&gt;Code examples in different languagues to demonstrate syntax highlighting with
 the current &lt;a href=&#34;https://github.com/solutionroute/hugo-smorg&#34;&gt;hugo-smorg&lt;/a&gt; theme.
@@ -31,7 +31,7 @@ Inline code looks like &lt;code&gt;this-&amp;gt;var&lt;/code&gt; and &lt;code&gt
       <title>Hugo Bulma Powered Blog Theme: Hugo-Smorg</title>
       <link>https://solutionroute.github.io/demo/hugo-smorg/project/hugo-smorg/</link>
       <pubDate>Wed, 07 Mar 2018 02:16:58 -0800</pubDate>
-      <author>thisemaildoesnotexist@www.example.com (Your Name)</author>
+      <author>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</author>
       <guid>https://solutionroute.github.io/demo/hugo-smorg/project/hugo-smorg/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://github.com/solutionroute/hugo-smorg&#34;&gt;Hugo-smorg&lt;/a&gt; (smorg = small org, or smorgasbord perhaps) is a responsive
 mobile-first, &lt;a href=&#34;https://bulma.io/&#34;&gt;Bulma&lt;/a&gt;-powered, reasonably minimalistic theme for the &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;

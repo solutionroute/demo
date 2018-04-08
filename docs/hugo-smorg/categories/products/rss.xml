@@ -6,9 +6,9 @@
     <description>Recent content in Products on Hugo-Smorg Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>thisemaildoesnotexist@www.example.com (Your Name)</managingEditor>
-    <webMaster>thisemaildoesnotexist@www.example.com (Your Name)</webMaster>
-    <copyright>&amp;copy; Your Name</copyright>
+    <managingEditor>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</managingEditor>
+    <webMaster>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</webMaster>
+    <copyright>&amp;copy; Your Name or Organization Name</copyright>
     <lastBuildDate>Sat, 03 Mar 2018 09:17:17 -0800</lastBuildDate>
     
 	<atom:link href="https://solutionroute.github.io/demo/hugo-smorg/categories/products/rss.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +18,7 @@
       <title>Blorg Bread Baker</title>
       <link>https://solutionroute.github.io/demo/hugo-smorg/project/blorg-bread-machine/</link>
       <pubDate>Sat, 03 Mar 2018 09:17:17 -0800</pubDate>
-      <author>thisemaildoesnotexist@www.example.com (Your Name)</author>
+      <author>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</author>
       <guid>https://solutionroute.github.io/demo/hugo-smorg/project/blorg-bread-machine/</guid>
       <description>The hand-crafted Blorg Bread Baker&amp;trade; enhances any kitchen. Produced from 100% post-consumer recycled materials you&amp;rsquo;ll never once think&amp;hellip; wait a minute, I&amp;rsquo;m baking my bread in other people&amp;rsquo;s refuse.</description>
     </item>

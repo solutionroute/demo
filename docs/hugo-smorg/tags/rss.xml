@@ -6,9 +6,9 @@
     <description>Recent content in Tags on Hugo-Smorg Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>thisemaildoesnotexist@www.example.com (Your Name)</managingEditor>
-    <webMaster>thisemaildoesnotexist@www.example.com (Your Name)</webMaster>
-    <copyright>&amp;copy; Your Name</copyright>
+    <managingEditor>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</managingEditor>
+    <webMaster>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</webMaster>
+    <copyright>&amp;copy; Your Name or Organization Name</copyright>
     <lastBuildDate>Wed, 07 Mar 2018 02:16:58 -0800</lastBuildDate>
     
 	<atom:link href="https://solutionroute.github.io/demo/hugo-smorg/tags/rss.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +18,7 @@
       <title>Bulma</title>
       <link>https://solutionroute.github.io/demo/hugo-smorg/tags/bulma/</link>
       <pubDate>Wed, 07 Mar 2018 02:16:58 -0800</pubDate>
-      <author>thisemaildoesnotexist@www.example.com (Your Name)</author>
+      <author>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</author>
       <guid>https://solutionroute.github.io/demo/hugo-smorg/tags/bulma/</guid>
       <description></description>
     </item>
@@ -27,7 +27,7 @@
       <title>Dev</title>
       <link>https://solutionroute.github.io/demo/hugo-smorg/tags/dev/</link>
       <pubDate>Sat, 10 Mar 2018 17:23:09 -0800</pubDate>
-      <author>thisemaildoesnotexist@www.example.com (Your Name)</author>
+      <author>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</author>
       <guid>https://solutionroute.github.io/demo/hugo-smorg/tags/dev/</guid>
       <description></description>
     </item>
@@ -36,7 +36,7 @@
       <title>Development</title>
       <link>https://solutionroute.github.io/demo/hugo-smorg/tags/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <author>thisemaildoesnotexist@www.example.com (Your Name)</author>
+      <author>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</author>
       <guid>https://solutionroute.github.io/demo/hugo-smorg/tags/development/</guid>
       <description></description>
     </item>
@@ -45,7 +45,7 @@
       <title>Go</title>
       <link>https://solutionroute.github.io/demo/hugo-smorg/tags/go/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <author>thisemaildoesnotexist@www.example.com (Your Name)</author>
+      <author>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</author>
       <guid>https://solutionroute.github.io/demo/hugo-smorg/tags/go/</guid>
       <description></description>
     </item>
@@ -54,7 +54,7 @@
       <title>Howto</title>
       <link>https://solutionroute.github.io/demo/hugo-smorg/tags/howto/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <author>thisemaildoesnotexist@www.example.com (Your Name)</author>
+      <author>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</author>
       <guid>https://solutionroute.github.io/demo/hugo-smorg/tags/howto/</guid>
       <description></description>
     </item>
@@ -63,7 +63,7 @@
       <title>Hugo</title>
       <link>https://solutionroute.github.io/demo/hugo-smorg/tags/hugo/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      <author>thisemaildoesnotexist@www.example.com (Your Name)</author>
+      <author>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</author>
       <guid>https://solutionroute.github.io/demo/hugo-smorg/tags/hugo/</guid>
       <description></description>
     </item>
@@ -72,7 +72,7 @@
       <title>Iot</title>
       <link>https://solutionroute.github.io/demo/hugo-smorg/tags/iot/</link>
       <pubDate>Sat, 03 Mar 2018 09:17:17 -0800</pubDate>
-      <author>thisemaildoesnotexist@www.example.com (Your Name)</author>
+      <author>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</author>
       <guid>https://solutionroute.github.io/demo/hugo-smorg/tags/iot/</guid>
       <description></description>
     </item>
@@ -81,7 +81,7 @@
       <title>Recycling</title>
       <link>https://solutionroute.github.io/demo/hugo-smorg/tags/recycling/</link>
       <pubDate>Sat, 03 Mar 2018 09:17:17 -0800</pubDate>
-      <author>thisemaildoesnotexist@www.example.com (Your Name)</author>
+      <author>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</author>
       <guid>https://solutionroute.github.io/demo/hugo-smorg/tags/recycling/</guid>
       <description></description>
     </item>
@@ -90,7 +90,7 @@
       <title>Templates</title>
       <link>https://solutionroute.github.io/demo/hugo-smorg/tags/templates/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <author>thisemaildoesnotexist@www.example.com (Your Name)</author>
+      <author>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</author>
       <guid>https://solutionroute.github.io/demo/hugo-smorg/tags/templates/</guid>
       <description></description>
     </item>
@@ -99,7 +99,7 @@
       <title>Theme</title>
       <link>https://solutionroute.github.io/demo/hugo-smorg/tags/theme/</link>
       <pubDate>Wed, 07 Mar 2018 02:16:58 -0800</pubDate>
-      <author>thisemaildoesnotexist@www.example.com (Your Name)</author>
+      <author>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</author>
       <guid>https://solutionroute.github.io/demo/hugo-smorg/tags/theme/</guid>
       <description></description>
     </item>
@@ -108,7 +108,7 @@
       <title>Themes</title>
       <link>https://solutionroute.github.io/demo/hugo-smorg/tags/themes/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <author>thisemaildoesnotexist@www.example.com (Your Name)</author>
+      <author>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</author>
       <guid>https://solutionroute.github.io/demo/hugo-smorg/tags/themes/</guid>
       <description></description>
     </item>
@@ -117,7 +117,7 @@
       <title>Tips</title>
       <link>https://solutionroute.github.io/demo/hugo-smorg/tags/tips/</link>
       <pubDate>Sat, 10 Mar 2018 17:23:09 -0800</pubDate>
-      <author>thisemaildoesnotexist@www.example.com (Your Name)</author>
+      <author>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</author>
       <guid>https://solutionroute.github.io/demo/hugo-smorg/tags/tips/</guid>
       <description></description>
     </item>
