@@ -23,20 +23,6 @@ See the project page: https://github.com/solutionroute/hugo-smorg, and
   </entry>
 	
   <entry>
-	<title>Hugo Bulma Powered Blog Theme: Hugo-Smorg</title>
-    <link href="https://solutionroute.github.io/demo/hugo-smorg/project/hugo-smorg/"/>
-	<id>https://solutionroute.github.io/demo/hugo-smorg/project/hugo-smorg/</id>
-    <published>2018-03-07T02:16:58-08:00</published>
-    <updated>2018-03-07T02:16:58-08:00</updated>
-	<content type="html"><![CDATA[
-<p><a href="https://github.com/solutionroute/hugo-smorg">Hugo-smorg</a> (smorg = small org, or smorgasbord perhaps) is a responsive
-mobile-first, <a href="https://bulma.io/">Bulma</a>-powered, reasonably minimalistic theme for the <a href="https://gohugo.io/">Hugo</a>
-<a href="https://gohugo.io/">https://gohugo.io/</a> static site generator.<br />
-</p>
-]]></content>
-  </entry>
-	
-  <entry>
 	<title>Syntax Highlighting</title>
     <link href="https://solutionroute.github.io/demo/hugo-smorg/post/syntax-highlighting/"/>
 	<id>https://solutionroute.github.io/demo/hugo-smorg/post/syntax-highlighting/</id>
@@ -47,6 +33,20 @@ mobile-first, <a href="https://bulma.io/">Bulma</a>-powered, reasonably minimali
 the current <a href="https://github.com/solutionroute/hugo-smorg">hugo-smorg</a> theme.
 Inline code looks like <code>this-&gt;var</code> and <code>expand($flurb, $times)</code>.</p>
 
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>Hugo Bulma Powered Blog Theme: Hugo-Smorg</title>
+    <link href="https://solutionroute.github.io/demo/hugo-smorg/project/hugo-smorg/"/>
+	<id>https://solutionroute.github.io/demo/hugo-smorg/project/hugo-smorg/</id>
+    <published>2018-03-07T02:16:58-08:00</published>
+    <updated>2018-03-07T02:16:58-08:00</updated>
+	<content type="html"><![CDATA[
+<p><a href="https://github.com/solutionroute/hugo-smorg">Hugo-smorg</a> (smorg = small org, or smorgasbord perhaps) is a responsive
+mobile-first, <a href="https://bulma.io/">Bulma</a>-powered, reasonably minimalistic theme for the <a href="https://gohugo.io/">Hugo</a>
+<a href="https://gohugo.io/">https://gohugo.io/</a> static site generator.<br />
+</p>
 ]]></content>
   </entry>
 	
